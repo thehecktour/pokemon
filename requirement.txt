@@ -1,0 +1,9 @@
+pygame-ce
+pygame-menu-ce
+pandas
+numpy
+pyplot
+requests
+opencv-python
+Pillow
+ 
